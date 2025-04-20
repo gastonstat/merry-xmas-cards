@@ -2,8 +2,11 @@
 
 R code for making simple Christmas cards
 
-<img src="merry-christmas.png" width="400">
-
-<br>
-
-<img src="felices-fiestas.png" width="400">
+<div class="row">
+  <div class="column">
+    <img src="merry-christmas.png" width="400">
+  </div>
+  <div class="column">
+    <img src="felices-fiestas.png" width="400">
+  </div>
+</div>
